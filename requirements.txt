@@ -4,3 +4,4 @@ matplotlib
 lxml
 openpyxl
 xlrd
+html5lib
